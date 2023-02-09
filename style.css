@@ -1,0 +1,86 @@
+
+.div1{
+height:45%;
+margin:1%;
+width:31%;
+float:left;
+background-color: powderblue;
+}
+.div1 h2{
+    font-size: 150%;
+    font-weight: 600;
+    font-family:Arial, Helvetica, sans-serif;
+    color:black;
+text-align:center;
+}
+.div1 button{
+    text-align: center;
+}
+.div1 p{
+    font-size: 100%;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+h2{
+    font-size: 200%;
+    color:rgb(73, 73, 197);
+    font-weight: 600;
+    font-family:Arial, Helvetica, sans-serif;
+    padding-top:3%;
+    
+    margin-bottom: 0px;;
+}
+.div2{
+    width:100%;
+    height:10%;
+  
+    margin:0px;
+    
+}
+.div2 ul{
+    list-style:none;
+}
+.div2 li{
+    float:right;
+    font-size: 100%;
+    font-weight: 500;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-right:6%;
+    margin-top:3%;
+}
+a{
+text-decoration: none;
+}
+.div3{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:150%;
+    font-weight:300;
+    padding-top: 2px;
+    background-color: powderblue;
+}
+.div4 input{
+margin-bottom:3%;
+padding-top: 9px;
+margin-top: 3%;
+}
+.div4{
+    background-color:white;
+    text-align:center;
+    margin-left:30%;
+    margin-right:30%;
+    height:80%;
+
+    
+}
+.body{
+    background-color:powderblue;
+}
+.div6 li{
+    float:left;
+    padding-left:120px;
+    
+}
+.div6 ul{
+    list-style: none;;
+}
